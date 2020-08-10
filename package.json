@@ -1,7 +1,7 @@
 {
   "name": "com.mixpanel.unity",
   "displayName":  "fork Mixpanel",
-  "version": "2.2.1.3",
+  "version": "2.2.1001",
   "description": "fork Official Mixpanel library for Unity.",
   "repository": {
     "type": "git",
