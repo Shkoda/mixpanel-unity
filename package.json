@@ -1,13 +1,13 @@
 {
-  "name": "com.mixpanel.unity",
-  "displayName":  "Mixpanel",
-  "version": "2.2.1",
-  "description": "Official Mixpanel library for Unity.",
+  "name": "com.shkoda.mixpanel.unity",
+  "displayName":  "fork Mixpanel",
+  "version": "2.2.1.1",
+  "description": "fork Official Mixpanel library for Unity.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mixpanel/mixpanel-unity"
+    "url": "https://github.com/Shkoda/mixpanel-unity"
   },
-  "author": "Mixpanel",
+  "author": "Mixpanel fork",
   "license": "Apache V2",
   "keywords": [
     "unity3d",
