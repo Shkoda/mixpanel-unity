@@ -1,5 +1,5 @@
 {
-  "name": "com.shkoda.mixpanel.unity",
+  "name": "com.mixpanel.unity",
   "displayName":  "fork Mixpanel",
   "version": "2.2.1.1",
   "description": "fork Official Mixpanel library for Unity.",
