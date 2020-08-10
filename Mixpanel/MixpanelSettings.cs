@@ -10,8 +10,8 @@ namespace mixpanel
 {
     public class MixpanelSettings : ScriptableObject
     {
-        private const string TrackUrlTemplate = "{0}track/?ip=1";
-        private const string EngageUrlTemplate = "{0}engage/?ip=1";
+        private const string TrackUrlTemplate = "{0}track";
+        private const string EngageUrlTemplate = "{0}engage";
         
         //TODO: Convert to log level
         [Tooltip("If true will print helpful debugging messages")] 
